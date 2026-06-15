@@ -1,0 +1,15 @@
+# Compiled class files
+*.class
+bin/
+
+# Eclipse IDE
+.classpath
+.project
+.settings/
+
+# macOS
+.DS_Store
+
+# Build output
+*.jar
+*.war
