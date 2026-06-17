@@ -1,4 +1,4 @@
-# Java Swing Quiz App
+# Quiz App
 
 ![Java](https://img.shields.io/badge/Java-8%2B-blue?logo=java)
 ![Swing](https://img.shields.io/badge/UI-Java%20Swing-orange)
